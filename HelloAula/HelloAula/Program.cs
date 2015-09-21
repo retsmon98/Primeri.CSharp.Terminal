@@ -6,7 +6,7 @@ namespace HelloAula
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("FUCK YOU!");
+			Console.WriteLine ("Hello Aula!");
 			Console.ReadKey ();
 		}
 	}
